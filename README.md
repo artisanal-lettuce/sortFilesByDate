@@ -32,4 +32,5 @@ To use in command line, download the .jar file in the Releases section to the ri
 ```-r / --recursive``` also parses any subfolders it finds
 
 Example:
+
 ![image](https://github.com/artisanal-lettuce/sortFilesByDate/assets/169831610/ba361bf6-e891-4ef8-960e-677af46de35a)
