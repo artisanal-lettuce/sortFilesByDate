@@ -34,3 +34,5 @@ To use in command line, download the .jar file in the Releases section to the ri
 Example:
 
 ![image](https://github.com/artisanal-lettuce/sortFilesByDate/assets/169831610/ba361bf6-e891-4ef8-960e-677af46de35a)
+
+I have added a simpler Jupyter notebook, that sorts in year-month and based on file extension.
